@@ -1,0 +1,926 @@
+[06-Jun-2022 02:43:06 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:43:06 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:43:06 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:43:06 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 02:43:06 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 02:43:06 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:44:42 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:44:42 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:44:42 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:44:42 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 02:44:42 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 02:44:42 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:44:51 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:44:51 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:44:51 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/login/authenticate, url => login
+[06-Jun-2022 02:44:51 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[06-Jun-2022 02:44:51 Europe/Berlin] SessionController::validateSession() redirect al login
+[06-Jun-2022 02:44:51 Europe/Berlin] ExistPOST: Existen parámetros
+[06-Jun-2022 02:44:51 Europe/Berlin] login: inicio
+[06-Jun-2022 02:44:51 Europe/Berlin] login: user id 13
+[06-Jun-2022 02:44:51 Europe/Berlin] login: success
+[06-Jun-2022 02:44:51 Europe/Berlin] Login::authenticate() passed
+[06-Jun-2022 02:44:51 Europe/Berlin] sessionController::initialize(): user: Emma
+[06-Jun-2022 02:44:51 Europe/Berlin] sessionController::authorizeAccess(): role: user
+[06-Jun-2022 02:44:51 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:44:51 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:44:51 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:44:51 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:44:51 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:44:51 Europe/Berlin] sessionController::isPublic(): currentURL => dashboard
+[06-Jun-2022 02:44:51 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:44:51 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:44:51 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:44:51 Europe/Berlin] Dashboard::constructor() 
+[06-Jun-2022 02:44:51 Europe/Berlin] Dashboard::RENDER() 
+[06-Jun-2022 02:44:51 Europe/Berlin] Dashboard::getExpenses() id = 13
+[06-Jun-2022 02:44:51 Europe/Berlin] ExpensesModel::getByUserIdAndLimit(): count: 0
+[06-Jun-2022 02:44:51 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:44:51 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:44:51 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:44:51 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:44:51 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:45:10 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:45:10 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:45:10 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:45:10 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:45:10 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user, url => user
+[06-Jun-2022 02:45:10 Europe/Berlin] sessionController::isPublic(): currentURL => user
+[06-Jun-2022 02:45:10 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user, url => user
+[06-Jun-2022 02:45:10 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:45:10 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:45:10 Europe/Berlin] user 
+[06-Jun-2022 02:45:15 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:45:15 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:45:15 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:45:15 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:45:15 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user/updateBudget, url => user
+[06-Jun-2022 02:45:15 Europe/Berlin] sessionController::isPublic(): currentURL => user
+[06-Jun-2022 02:45:15 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user/updateBudget, url => user
+[06-Jun-2022 02:45:15 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:45:15 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:45:15 Europe/Berlin] user 
+[06-Jun-2022 02:45:15 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\ProyectoLoginInicio\libs\controller.php on line 21
+[06-Jun-2022 02:45:15 Europe/Berlin] ExistPOST: Existen parámetros
+[06-Jun-2022 02:45:15 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:45:15 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:45:15 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:45:15 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:45:15 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user?success=2ee085ac8828407f4908e4d134195e5c, url => user?success=2ee085ac8828407f4908e4d134195e5c
+[06-Jun-2022 02:45:15 Europe/Berlin] sessionController::isPublic(): currentURL => user?success=2ee085ac8828407f4908e4d134195e5c
+[06-Jun-2022 02:45:15 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user?success=2ee085ac8828407f4908e4d134195e5c, url => user?success=2ee085ac8828407f4908e4d134195e5c
+[06-Jun-2022 02:45:15 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:45:15 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:45:15 Europe/Berlin] user 
+[06-Jun-2022 02:45:15 Europe/Berlin] View::handleError() existsKey =>1
+[06-Jun-2022 02:45:25 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:45:25 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:45:25 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:45:25 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:45:25 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user/updatePassword, url => user
+[06-Jun-2022 02:45:25 Europe/Berlin] sessionController::isPublic(): currentURL => user
+[06-Jun-2022 02:45:25 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user/updatePassword, url => user
+[06-Jun-2022 02:45:25 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:45:25 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:45:25 Europe/Berlin] user 
+[06-Jun-2022 02:45:25 Europe/Berlin] ExistPOST: Existen parámetros
+[06-Jun-2022 02:45:26 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:45:26 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:45:26 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:45:26 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:45:26 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user?success=6fb34a5e4118fb823636ca24a1d21669, url => user?success=6fb34a5e4118fb823636ca24a1d21669
+[06-Jun-2022 02:45:26 Europe/Berlin] sessionController::isPublic(): currentURL => user?success=6fb34a5e4118fb823636ca24a1d21669
+[06-Jun-2022 02:45:26 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user?success=6fb34a5e4118fb823636ca24a1d21669, url => user?success=6fb34a5e4118fb823636ca24a1d21669
+[06-Jun-2022 02:45:26 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:45:26 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:45:26 Europe/Berlin] user 
+[06-Jun-2022 02:45:26 Europe/Berlin] View::handleError() existsKey =>1
+[06-Jun-2022 02:45:34 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:45:34 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:45:34 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:45:34 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:45:34 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user/updateName, url => user
+[06-Jun-2022 02:45:34 Europe/Berlin] sessionController::isPublic(): currentURL => user
+[06-Jun-2022 02:45:34 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user/updateName, url => user
+[06-Jun-2022 02:45:34 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:45:34 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:45:34 Europe/Berlin] user 
+[06-Jun-2022 02:45:34 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\ProyectoLoginInicio\libs\controller.php on line 21
+[06-Jun-2022 02:45:34 Europe/Berlin] ExistPOST: Existen parámetros
+[06-Jun-2022 02:45:34 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:45:34 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:45:34 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:45:34 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:45:34 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user?success=2ee085ac8828407f4908e4d134195e5c, url => user?success=2ee085ac8828407f4908e4d134195e5c
+[06-Jun-2022 02:45:34 Europe/Berlin] sessionController::isPublic(): currentURL => user?success=2ee085ac8828407f4908e4d134195e5c
+[06-Jun-2022 02:45:34 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user?success=2ee085ac8828407f4908e4d134195e5c, url => user?success=2ee085ac8828407f4908e4d134195e5c
+[06-Jun-2022 02:45:34 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:45:34 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:45:34 Europe/Berlin] user Emmanuel
+[06-Jun-2022 02:45:34 Europe/Berlin] View::handleError() existsKey =>1
+[06-Jun-2022 02:45:40 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:45:40 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:45:40 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:45:40 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:45:40 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/logout, url => logout
+[06-Jun-2022 02:45:40 Europe/Berlin] sessionController::isPublic(): currentURL => logout
+[06-Jun-2022 02:45:40 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/logout, url => logout
+[06-Jun-2022 02:45:40 Europe/Berlin] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[06-Jun-2022 02:45:40 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:45:40 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:45:40 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:45:40 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 02:45:40 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 02:45:40 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:45:46 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:45:46 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:45:46 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:45:46 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 02:45:46 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 02:45:46 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:47:34 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:47:34 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:47:34 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:47:34 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 02:47:34 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 02:47:34 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:47:35 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:47:35 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:47:35 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:47:35 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 02:47:35 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 02:47:35 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:47:36 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:47:36 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:47:36 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:47:36 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 02:47:36 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 02:47:36 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:47:36 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:47:36 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:47:36 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:47:36 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 02:47:36 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 02:47:36 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:48:01 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:48:01 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:48:01 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:48:01 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 02:48:01 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 02:48:01 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:48:02 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:48:02 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:48:02 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:48:02 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 02:48:02 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 02:48:02 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:48:02 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:48:02 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:48:02 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:48:02 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 02:48:02 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 02:48:02 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:48:03 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:48:03 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:48:03 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:48:03 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 02:48:03 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 02:48:03 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:48:03 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:48:03 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:48:03 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:48:03 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 02:48:03 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 02:48:03 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:48:09 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:48:09 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:48:09 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:48:09 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 02:48:09 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 02:48:09 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:48:09 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:48:09 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:48:09 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:48:09 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 02:48:09 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 02:48:09 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:48:10 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:48:10 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:48:10 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:48:10 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 02:48:10 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 02:48:10 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:48:10 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:48:10 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:48:10 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:48:10 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 02:48:10 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 02:48:10 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:48:22 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:48:22 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:48:22 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/login/authenticate, url => login
+[06-Jun-2022 02:48:22 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[06-Jun-2022 02:48:22 Europe/Berlin] SessionController::validateSession() redirect al login
+[06-Jun-2022 02:48:22 Europe/Berlin] ExistPOST: Existen parámetros
+[06-Jun-2022 02:48:22 Europe/Berlin] login: inicio
+[06-Jun-2022 02:48:22 Europe/Berlin] Login::authenticate() username and/or password wrong
+[06-Jun-2022 02:48:22 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:48:22 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:48:22 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:48:22 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/?error=bcbe63ed8464684af6945ad8a89f76f8, url => ?error=bcbe63ed8464684af6945ad8a89f76f8
+[06-Jun-2022 02:48:22 Europe/Berlin] sessionController::isPublic(): currentURL => ?error=bcbe63ed8464684af6945ad8a89f76f8
+[06-Jun-2022 02:48:22 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:48:22 Europe/Berlin] View::handleError() existsKey =>Nombre de usuario y/o password incorrectos
+[06-Jun-2022 02:48:29 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:48:29 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:48:29 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/login/authenticate, url => login
+[06-Jun-2022 02:48:29 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[06-Jun-2022 02:48:29 Europe/Berlin] SessionController::validateSession() redirect al login
+[06-Jun-2022 02:48:29 Europe/Berlin] ExistPOST: Existen parámetros
+[06-Jun-2022 02:48:29 Europe/Berlin] login: inicio
+[06-Jun-2022 02:48:29 Europe/Berlin] Login::authenticate() username and/or password wrong
+[06-Jun-2022 02:48:29 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:48:29 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:48:29 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:48:29 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/?error=bcbe63ed8464684af6945ad8a89f76f8, url => ?error=bcbe63ed8464684af6945ad8a89f76f8
+[06-Jun-2022 02:48:29 Europe/Berlin] sessionController::isPublic(): currentURL => ?error=bcbe63ed8464684af6945ad8a89f76f8
+[06-Jun-2022 02:48:29 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:48:29 Europe/Berlin] View::handleError() existsKey =>Nombre de usuario y/o password incorrectos
+[06-Jun-2022 02:48:38 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:48:38 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:48:38 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/login/authenticate, url => login
+[06-Jun-2022 02:48:38 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[06-Jun-2022 02:48:38 Europe/Berlin] SessionController::validateSession() redirect al login
+[06-Jun-2022 02:48:38 Europe/Berlin] ExistPOST: Existen parámetros
+[06-Jun-2022 02:48:38 Europe/Berlin] login: inicio
+[06-Jun-2022 02:48:38 Europe/Berlin] Login::authenticate() username and/or password wrong
+[06-Jun-2022 02:48:38 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:48:38 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:48:38 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:48:38 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/?error=bcbe63ed8464684af6945ad8a89f76f8, url => ?error=bcbe63ed8464684af6945ad8a89f76f8
+[06-Jun-2022 02:48:38 Europe/Berlin] sessionController::isPublic(): currentURL => ?error=bcbe63ed8464684af6945ad8a89f76f8
+[06-Jun-2022 02:48:38 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:48:38 Europe/Berlin] View::handleError() existsKey =>Nombre de usuario y/o password incorrectos
+[06-Jun-2022 02:48:56 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:48:56 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:48:56 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/login/authenticate, url => login
+[06-Jun-2022 02:48:56 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[06-Jun-2022 02:48:56 Europe/Berlin] SessionController::validateSession() redirect al login
+[06-Jun-2022 02:48:56 Europe/Berlin] ExistPOST: Existen parámetros
+[06-Jun-2022 02:48:56 Europe/Berlin] login: inicio
+[06-Jun-2022 02:48:56 Europe/Berlin] login: user id 13
+[06-Jun-2022 02:48:56 Europe/Berlin] Login::authenticate() username and/or password wrong
+[06-Jun-2022 02:48:57 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:48:57 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:48:57 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:48:57 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/?error=bcbe63ed8464684af6945ad8a89f76f8, url => ?error=bcbe63ed8464684af6945ad8a89f76f8
+[06-Jun-2022 02:48:57 Europe/Berlin] sessionController::isPublic(): currentURL => ?error=bcbe63ed8464684af6945ad8a89f76f8
+[06-Jun-2022 02:48:57 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:48:57 Europe/Berlin] View::handleError() existsKey =>Nombre de usuario y/o password incorrectos
+[06-Jun-2022 02:49:06 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:49:06 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:49:06 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/signup, url => signup
+[06-Jun-2022 02:49:06 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[06-Jun-2022 02:49:06 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:49:15 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:49:15 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:49:15 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/signup/newUser, url => signup
+[06-Jun-2022 02:49:15 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[06-Jun-2022 02:49:15 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:49:15 Europe/Berlin] ExistPOST: Existen parámetros
+[06-Jun-2022 02:49:15 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:49:15 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:49:15 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:49:15 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/?success=8281e04ed52ccfc13820d0f6acb0985a, url => ?success=8281e04ed52ccfc13820d0f6acb0985a
+[06-Jun-2022 02:49:15 Europe/Berlin] sessionController::isPublic(): currentURL => ?success=8281e04ed52ccfc13820d0f6acb0985a
+[06-Jun-2022 02:49:15 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 02:49:15 Europe/Berlin] View::handleError() existsKey =>1
+[06-Jun-2022 02:49:24 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:49:24 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:49:24 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/login/authenticate, url => login
+[06-Jun-2022 02:49:24 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[06-Jun-2022 02:49:24 Europe/Berlin] SessionController::validateSession() redirect al login
+[06-Jun-2022 02:49:24 Europe/Berlin] ExistPOST: Existen parámetros
+[06-Jun-2022 02:49:24 Europe/Berlin] login: inicio
+[06-Jun-2022 02:49:24 Europe/Berlin] login: user id 14
+[06-Jun-2022 02:49:25 Europe/Berlin] login: success
+[06-Jun-2022 02:49:25 Europe/Berlin] Login::authenticate() passed
+[06-Jun-2022 02:49:25 Europe/Berlin] sessionController::initialize(): user: Emma
+[06-Jun-2022 02:49:25 Europe/Berlin] sessionController::authorizeAccess(): role: user
+[06-Jun-2022 02:49:25 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:49:25 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:49:25 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:49:25 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:49:25 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:49:25 Europe/Berlin] sessionController::isPublic(): currentURL => dashboard
+[06-Jun-2022 02:49:25 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:49:25 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:49:25 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:49:25 Europe/Berlin] Dashboard::constructor() 
+[06-Jun-2022 02:49:25 Europe/Berlin] Dashboard::RENDER() 
+[06-Jun-2022 02:49:25 Europe/Berlin] Dashboard::getExpenses() id = 14
+[06-Jun-2022 02:49:25 Europe/Berlin] ExpensesModel::getByUserIdAndLimit(): count: 0
+[06-Jun-2022 02:49:25 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:49:25 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:49:25 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:49:25 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:49:25 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:50:14 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:50:14 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:50:14 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:50:14 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:50:14 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user, url => user
+[06-Jun-2022 02:50:14 Europe/Berlin] sessionController::isPublic(): currentURL => user
+[06-Jun-2022 02:50:14 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user, url => user
+[06-Jun-2022 02:50:14 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:50:14 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:50:14 Europe/Berlin] user 
+[06-Jun-2022 02:52:20 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:52:20 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:52:20 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:52:20 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:52:20 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user/updateBudget, url => user
+[06-Jun-2022 02:52:20 Europe/Berlin] sessionController::isPublic(): currentURL => user
+[06-Jun-2022 02:52:20 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user/updateBudget, url => user
+[06-Jun-2022 02:52:20 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:52:20 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:52:20 Europe/Berlin] user 
+[06-Jun-2022 02:52:20 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\ProyectoLoginInicio\libs\controller.php on line 21
+[06-Jun-2022 02:52:20 Europe/Berlin] ExistPOST: Existen parámetros
+[06-Jun-2022 02:52:20 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:52:20 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:52:20 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:52:20 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:52:20 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user?success=2ee085ac8828407f4908e4d134195e5c, url => user?success=2ee085ac8828407f4908e4d134195e5c
+[06-Jun-2022 02:52:20 Europe/Berlin] sessionController::isPublic(): currentURL => user?success=2ee085ac8828407f4908e4d134195e5c
+[06-Jun-2022 02:52:20 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user?success=2ee085ac8828407f4908e4d134195e5c, url => user?success=2ee085ac8828407f4908e4d134195e5c
+[06-Jun-2022 02:52:20 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:52:20 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:52:20 Europe/Berlin] user 
+[06-Jun-2022 02:52:20 Europe/Berlin] View::handleError() existsKey =>1
+[06-Jun-2022 02:52:27 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:52:27 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:52:27 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:52:27 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:52:27 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:52:27 Europe/Berlin] sessionController::isPublic(): currentURL => dashboard
+[06-Jun-2022 02:52:27 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:52:27 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:52:27 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:52:27 Europe/Berlin] Dashboard::constructor() 
+[06-Jun-2022 02:52:27 Europe/Berlin] Dashboard::RENDER() 
+[06-Jun-2022 02:52:27 Europe/Berlin] Dashboard::getExpenses() id = 14
+[06-Jun-2022 02:52:27 Europe/Berlin] ExpensesModel::getByUserIdAndLimit(): count: 0
+[06-Jun-2022 02:52:27 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:52:27 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:52:27 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:52:27 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:52:27 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:52:48 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:52:48 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:52:48 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:52:48 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:52:48 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user, url => user
+[06-Jun-2022 02:52:48 Europe/Berlin] sessionController::isPublic(): currentURL => user
+[06-Jun-2022 02:52:48 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user, url => user
+[06-Jun-2022 02:52:48 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:52:48 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:52:48 Europe/Berlin] user 
+[06-Jun-2022 02:52:49 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:52:49 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:52:49 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:52:49 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:52:49 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:52:49 Europe/Berlin] sessionController::isPublic(): currentURL => dashboard
+[06-Jun-2022 02:52:49 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:52:49 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:52:49 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:52:49 Europe/Berlin] Dashboard::constructor() 
+[06-Jun-2022 02:52:49 Europe/Berlin] Dashboard::RENDER() 
+[06-Jun-2022 02:52:49 Europe/Berlin] Dashboard::getExpenses() id = 14
+[06-Jun-2022 02:52:49 Europe/Berlin] ExpensesModel::getByUserIdAndLimit(): count: 0
+[06-Jun-2022 02:52:49 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:52:49 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:52:49 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:52:49 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:52:49 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:52:56 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:52:56 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:52:56 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:52:56 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:52:56 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user, url => user
+[06-Jun-2022 02:52:56 Europe/Berlin] sessionController::isPublic(): currentURL => user
+[06-Jun-2022 02:52:56 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user, url => user
+[06-Jun-2022 02:52:56 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:52:56 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:52:56 Europe/Berlin] user 
+[06-Jun-2022 02:53:00 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:53:00 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:53:00 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:53:00 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:53:00 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:53:00 Europe/Berlin] sessionController::isPublic(): currentURL => dashboard
+[06-Jun-2022 02:53:00 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:53:00 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:53:00 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:53:00 Europe/Berlin] Dashboard::constructor() 
+[06-Jun-2022 02:53:00 Europe/Berlin] Dashboard::RENDER() 
+[06-Jun-2022 02:53:00 Europe/Berlin] Dashboard::getExpenses() id = 14
+[06-Jun-2022 02:53:00 Europe/Berlin] ExpensesModel::getByUserIdAndLimit(): count: 0
+[06-Jun-2022 02:53:00 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:53:00 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:53:00 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:53:00 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:53:00 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:53:13 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:53:13 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:53:13 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:53:13 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:53:13 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:53:13 Europe/Berlin] sessionController::isPublic(): currentURL => dashboard
+[06-Jun-2022 02:53:13 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:53:13 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:53:13 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:53:13 Europe/Berlin] Dashboard::constructor() 
+[06-Jun-2022 02:53:13 Europe/Berlin] Dashboard::RENDER() 
+[06-Jun-2022 02:53:13 Europe/Berlin] Dashboard::getExpenses() id = 14
+[06-Jun-2022 02:53:13 Europe/Berlin] ExpensesModel::getByUserIdAndLimit(): count: 0
+[06-Jun-2022 02:53:13 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:53:13 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:53:13 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:53:13 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:53:13 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:53:17 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:53:17 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:53:17 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:53:17 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:53:17 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user, url => user
+[06-Jun-2022 02:53:17 Europe/Berlin] sessionController::isPublic(): currentURL => user
+[06-Jun-2022 02:53:17 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user, url => user
+[06-Jun-2022 02:53:17 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:53:17 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:53:17 Europe/Berlin] user 
+[06-Jun-2022 02:54:21 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:54:21 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:54:21 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:21 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:54:21 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:21 Europe/Berlin] sessionController::isPublic(): currentURL => expenses
+[06-Jun-2022 02:54:21 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:21 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:54:21 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:21 Europe/Berlin] Expenses::constructor() 
+[06-Jun-2022 02:54:21 Europe/Berlin] Expenses::RENDER() 
+[06-Jun-2022 02:54:23 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:54:23 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:54:23 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:23 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:54:23 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:23 Europe/Berlin] sessionController::isPublic(): currentURL => expenses
+[06-Jun-2022 02:54:23 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:23 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:54:23 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:23 Europe/Berlin] Expenses::constructor() 
+[06-Jun-2022 02:54:23 Europe/Berlin] Expenses::RENDER() 
+[06-Jun-2022 02:54:24 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:54:24 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:54:24 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:24 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:54:24 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:24 Europe/Berlin] sessionController::isPublic(): currentURL => expenses
+[06-Jun-2022 02:54:24 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:24 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:54:24 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:24 Europe/Berlin] Expenses::constructor() 
+[06-Jun-2022 02:54:24 Europe/Berlin] Expenses::RENDER() 
+[06-Jun-2022 02:54:24 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:54:24 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:54:24 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:24 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:54:24 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:24 Europe/Berlin] sessionController::isPublic(): currentURL => expenses
+[06-Jun-2022 02:54:24 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:24 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:54:24 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:24 Europe/Berlin] Expenses::constructor() 
+[06-Jun-2022 02:54:24 Europe/Berlin] Expenses::RENDER() 
+[06-Jun-2022 02:54:24 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:54:24 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:54:24 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:24 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:54:24 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:24 Europe/Berlin] sessionController::isPublic(): currentURL => expenses
+[06-Jun-2022 02:54:24 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:24 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:54:24 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:24 Europe/Berlin] Expenses::constructor() 
+[06-Jun-2022 02:54:24 Europe/Berlin] Expenses::RENDER() 
+[06-Jun-2022 02:54:25 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:54:25 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:54:25 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:25 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:54:25 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:25 Europe/Berlin] sessionController::isPublic(): currentURL => expenses
+[06-Jun-2022 02:54:25 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:25 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:54:25 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:25 Europe/Berlin] Expenses::constructor() 
+[06-Jun-2022 02:54:25 Europe/Berlin] Expenses::RENDER() 
+[06-Jun-2022 02:54:25 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:54:25 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:54:25 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:25 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:54:25 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:25 Europe/Berlin] sessionController::isPublic(): currentURL => expenses
+[06-Jun-2022 02:54:25 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:25 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:54:25 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:25 Europe/Berlin] Expenses::constructor() 
+[06-Jun-2022 02:54:25 Europe/Berlin] Expenses::RENDER() 
+[06-Jun-2022 02:54:26 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:54:26 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:54:26 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:26 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:54:26 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:26 Europe/Berlin] sessionController::isPublic(): currentURL => expenses
+[06-Jun-2022 02:54:26 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:26 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:54:26 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:26 Europe/Berlin] Expenses::constructor() 
+[06-Jun-2022 02:54:26 Europe/Berlin] Expenses::RENDER() 
+[06-Jun-2022 02:54:26 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:54:26 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:54:26 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:26 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:54:26 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:26 Europe/Berlin] sessionController::isPublic(): currentURL => expenses
+[06-Jun-2022 02:54:26 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:26 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:54:26 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:26 Europe/Berlin] Expenses::constructor() 
+[06-Jun-2022 02:54:26 Europe/Berlin] Expenses::RENDER() 
+[06-Jun-2022 02:54:28 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:54:28 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:54:28 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:28 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:54:28 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:28 Europe/Berlin] sessionController::isPublic(): currentURL => expenses
+[06-Jun-2022 02:54:28 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:54:28 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:54:28 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:54:28 Europe/Berlin] Expenses::constructor() 
+[06-Jun-2022 02:54:28 Europe/Berlin] Expenses::RENDER() 
+[06-Jun-2022 02:55:37 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:55:37 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:55:37 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:55:37 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:55:37 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:55:37 Europe/Berlin] sessionController::isPublic(): currentURL => dashboard
+[06-Jun-2022 02:55:37 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:55:37 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:55:37 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:55:37 Europe/Berlin] Dashboard::constructor() 
+[06-Jun-2022 02:55:37 Europe/Berlin] Dashboard::RENDER() 
+[06-Jun-2022 02:55:37 Europe/Berlin] Dashboard::getExpenses() id = 14
+[06-Jun-2022 02:55:37 Europe/Berlin] ExpensesModel::getByUserIdAndLimit(): count: 0
+[06-Jun-2022 02:55:37 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:55:37 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:55:37 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:55:37 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:55:37 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:55:40 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:55:40 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:55:40 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:55:40 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:55:40 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:55:40 Europe/Berlin] sessionController::isPublic(): currentURL => expenses
+[06-Jun-2022 02:55:40 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:55:40 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:55:40 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:55:40 Europe/Berlin] Expenses::constructor() 
+[06-Jun-2022 02:55:40 Europe/Berlin] Expenses::RENDER() 
+[06-Jun-2022 02:55:41 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:55:41 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:55:41 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:55:41 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:55:41 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:55:41 Europe/Berlin] sessionController::isPublic(): currentURL => dashboard
+[06-Jun-2022 02:55:41 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:55:41 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:55:41 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:55:41 Europe/Berlin] Dashboard::constructor() 
+[06-Jun-2022 02:55:41 Europe/Berlin] Dashboard::RENDER() 
+[06-Jun-2022 02:55:41 Europe/Berlin] Dashboard::getExpenses() id = 14
+[06-Jun-2022 02:55:41 Europe/Berlin] ExpensesModel::getByUserIdAndLimit(): count: 0
+[06-Jun-2022 02:55:41 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:55:41 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:55:41 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:55:41 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:55:41 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:55:42 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:55:42 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:55:42 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:55:42 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:55:42 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:55:42 Europe/Berlin] sessionController::isPublic(): currentURL => expenses
+[06-Jun-2022 02:55:42 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:55:42 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:55:42 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:55:42 Europe/Berlin] Expenses::constructor() 
+[06-Jun-2022 02:55:42 Europe/Berlin] Expenses::RENDER() 
+[06-Jun-2022 02:55:43 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:55:43 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:55:43 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:55:43 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:55:43 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:55:43 Europe/Berlin] sessionController::isPublic(): currentURL => dashboard
+[06-Jun-2022 02:55:43 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:55:43 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:55:43 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:55:43 Europe/Berlin] Dashboard::constructor() 
+[06-Jun-2022 02:55:43 Europe/Berlin] Dashboard::RENDER() 
+[06-Jun-2022 02:55:43 Europe/Berlin] Dashboard::getExpenses() id = 14
+[06-Jun-2022 02:55:43 Europe/Berlin] ExpensesModel::getByUserIdAndLimit(): count: 0
+[06-Jun-2022 02:55:43 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:55:43 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:55:43 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:55:43 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:55:43 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:56:02 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:56:02 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:56:02 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:56:02 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:56:02 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:56:02 Europe/Berlin] sessionController::isPublic(): currentURL => dashboard
+[06-Jun-2022 02:56:02 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:56:02 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:56:02 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:56:02 Europe/Berlin] Dashboard::constructor() 
+[06-Jun-2022 02:56:02 Europe/Berlin] Dashboard::RENDER() 
+[06-Jun-2022 02:56:02 Europe/Berlin] Dashboard::getExpenses() id = 14
+[06-Jun-2022 02:56:02 Europe/Berlin] ExpensesModel::getByUserIdAndLimit(): count: 0
+[06-Jun-2022 02:56:02 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:56:02 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:56:02 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:56:02 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:56:02 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:56:02 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:56:02 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:56:02 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:56:02 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:56:02 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:56:02 Europe/Berlin] sessionController::isPublic(): currentURL => expenses
+[06-Jun-2022 02:56:02 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:56:02 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:56:02 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:56:02 Europe/Berlin] Expenses::constructor() 
+[06-Jun-2022 02:56:02 Europe/Berlin] Expenses::RENDER() 
+[06-Jun-2022 02:56:03 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:56:03 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:56:03 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:56:03 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:56:03 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:56:03 Europe/Berlin] sessionController::isPublic(): currentURL => expenses
+[06-Jun-2022 02:56:03 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:56:03 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:56:03 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:56:03 Europe/Berlin] Expenses::constructor() 
+[06-Jun-2022 02:56:03 Europe/Berlin] Expenses::RENDER() 
+[06-Jun-2022 02:56:04 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:56:04 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:56:04 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:56:04 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:56:04 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:56:04 Europe/Berlin] sessionController::isPublic(): currentURL => dashboard
+[06-Jun-2022 02:56:04 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 02:56:04 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:56:04 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:56:04 Europe/Berlin] Dashboard::constructor() 
+[06-Jun-2022 02:56:04 Europe/Berlin] Dashboard::RENDER() 
+[06-Jun-2022 02:56:04 Europe/Berlin] Dashboard::getExpenses() id = 14
+[06-Jun-2022 02:56:04 Europe/Berlin] ExpensesModel::getByUserIdAndLimit(): count: 0
+[06-Jun-2022 02:56:04 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:56:04 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:56:04 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:56:04 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:56:04 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 02:56:04 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:56:04 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:56:04 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:56:04 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:56:04 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:56:04 Europe/Berlin] sessionController::isPublic(): currentURL => expenses
+[06-Jun-2022 02:56:04 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 02:56:04 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 02:56:04 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:56:04 Europe/Berlin] Expenses::constructor() 
+[06-Jun-2022 02:56:04 Europe/Berlin] Expenses::RENDER() 
+[06-Jun-2022 02:56:05 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:56:05 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:56:05 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 02:56:05 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 02:56:05 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/logout, url => logout
+[06-Jun-2022 02:56:05 Europe/Berlin] sessionController::isPublic(): currentURL => logout
+[06-Jun-2022 02:56:05 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/logout, url => logout
+[06-Jun-2022 02:56:05 Europe/Berlin] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[06-Jun-2022 02:56:05 Europe/Berlin] Errores posibles!
+[06-Jun-2022 02:56:05 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 02:56:05 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 02:56:05 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 02:56:05 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 02:56:05 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 03:00:56 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:00:56 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 03:00:56 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 03:00:56 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 03:00:56 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 03:00:56 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 03:08:37 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:08:37 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 03:08:37 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 03:08:37 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 03:08:37 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 03:08:37 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 03:08:43 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:08:43 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 03:08:43 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/login/authenticate, url => login
+[06-Jun-2022 03:08:43 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[06-Jun-2022 03:08:43 Europe/Berlin] SessionController::validateSession() redirect al login
+[06-Jun-2022 03:08:43 Europe/Berlin] ExistPOST: Existen parámetros
+[06-Jun-2022 03:08:43 Europe/Berlin] login: inicio
+[06-Jun-2022 03:08:43 Europe/Berlin] login: user id 14
+[06-Jun-2022 03:08:43 Europe/Berlin] login: success
+[06-Jun-2022 03:08:43 Europe/Berlin] Login::authenticate() passed
+[06-Jun-2022 03:08:43 Europe/Berlin] sessionController::initialize(): user: Emma
+[06-Jun-2022 03:08:43 Europe/Berlin] sessionController::authorizeAccess(): role: user
+[06-Jun-2022 03:08:43 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:08:43 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 03:08:43 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:08:43 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 03:08:43 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 03:08:43 Europe/Berlin] sessionController::isPublic(): currentURL => dashboard
+[06-Jun-2022 03:08:43 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 03:08:43 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 03:08:43 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:08:43 Europe/Berlin] Dashboard::constructor() 
+[06-Jun-2022 03:08:43 Europe/Berlin] Dashboard::RENDER() 
+[06-Jun-2022 03:08:43 Europe/Berlin] Dashboard::getExpenses() id = 14
+[06-Jun-2022 03:08:43 Europe/Berlin] ExpensesModel::getByUserIdAndLimit(): count: 0
+[06-Jun-2022 03:08:43 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:08:43 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:08:43 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:08:43 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:08:43 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:08:53 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:08:53 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 03:08:53 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:08:53 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 03:08:53 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 03:08:53 Europe/Berlin] sessionController::isPublic(): currentURL => expenses
+[06-Jun-2022 03:08:53 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 03:08:53 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 03:08:53 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:08:53 Europe/Berlin] Expenses::constructor() 
+[06-Jun-2022 03:08:53 Europe/Berlin] Expenses::RENDER() 
+[06-Jun-2022 03:09:02 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:09:02 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 03:09:02 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:09:02 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 03:09:02 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 03:09:02 Europe/Berlin] sessionController::isPublic(): currentURL => dashboard
+[06-Jun-2022 03:09:02 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 03:09:02 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 03:09:02 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:09:02 Europe/Berlin] Dashboard::constructor() 
+[06-Jun-2022 03:09:02 Europe/Berlin] Dashboard::RENDER() 
+[06-Jun-2022 03:09:02 Europe/Berlin] Dashboard::getExpenses() id = 14
+[06-Jun-2022 03:09:02 Europe/Berlin] ExpensesModel::getByUserIdAndLimit(): count: 0
+[06-Jun-2022 03:09:02 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:09:02 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:09:02 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:09:02 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:09:02 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:09:10 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:09:10 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 03:09:10 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:09:10 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 03:09:10 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user, url => user
+[06-Jun-2022 03:09:10 Europe/Berlin] sessionController::isPublic(): currentURL => user
+[06-Jun-2022 03:09:10 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user, url => user
+[06-Jun-2022 03:09:10 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 03:09:10 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:09:10 Europe/Berlin] user 
+[06-Jun-2022 03:09:34 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:09:34 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 03:09:34 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:09:34 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 03:09:34 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user/updatePhoto, url => user
+[06-Jun-2022 03:09:34 Europe/Berlin] sessionController::isPublic(): currentURL => user
+[06-Jun-2022 03:09:34 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user/updatePhoto, url => user
+[06-Jun-2022 03:09:34 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 03:09:34 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:09:34 Europe/Berlin] user 
+[06-Jun-2022 03:09:34 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:09:34 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 03:09:34 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:09:34 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 03:09:34 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user?success=edabc9e4581fee3f0056fff4685ee9a8, url => user?success=edabc9e4581fee3f0056fff4685ee9a8
+[06-Jun-2022 03:09:34 Europe/Berlin] sessionController::isPublic(): currentURL => user?success=edabc9e4581fee3f0056fff4685ee9a8
+[06-Jun-2022 03:09:34 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/user?success=edabc9e4581fee3f0056fff4685ee9a8, url => user?success=edabc9e4581fee3f0056fff4685ee9a8
+[06-Jun-2022 03:09:34 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 03:09:34 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:09:34 Europe/Berlin] user 
+[06-Jun-2022 03:09:34 Europe/Berlin] View::handleError() existsKey =>1
+[06-Jun-2022 03:09:34 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:10:57 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:10:57 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 03:10:57 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:10:57 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 03:10:57 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 03:10:57 Europe/Berlin] sessionController::isPublic(): currentURL => dashboard
+[06-Jun-2022 03:10:57 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 03:10:57 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 03:10:57 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:10:57 Europe/Berlin] Dashboard::constructor() 
+[06-Jun-2022 03:10:57 Europe/Berlin] Dashboard::RENDER() 
+[06-Jun-2022 03:10:57 Europe/Berlin] Dashboard::getExpenses() id = 14
+[06-Jun-2022 03:10:57 Europe/Berlin] ExpensesModel::getByUserIdAndLimit(): count: 0
+[06-Jun-2022 03:10:57 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:10:57 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:10:57 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:10:57 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:10:57 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:10:57 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:10:58 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:10:58 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 03:10:58 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:10:58 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 03:10:58 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 03:10:58 Europe/Berlin] sessionController::isPublic(): currentURL => expenses
+[06-Jun-2022 03:10:58 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/expenses, url => expenses
+[06-Jun-2022 03:10:58 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 03:10:58 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:10:58 Europe/Berlin] Expenses::constructor() 
+[06-Jun-2022 03:10:58 Europe/Berlin] Expenses::RENDER() 
+[06-Jun-2022 03:10:58 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:11:00 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:11:00 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 03:11:00 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:11:00 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 03:11:00 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/logout, url => logout
+[06-Jun-2022 03:11:00 Europe/Berlin] sessionController::isPublic(): currentURL => logout
+[06-Jun-2022 03:11:00 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/logout, url => logout
+[06-Jun-2022 03:11:00 Europe/Berlin] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[06-Jun-2022 03:11:00 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:11:00 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 03:11:00 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 03:11:00 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/, url => 
+[06-Jun-2022 03:11:00 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2022 03:11:00 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 03:18:31 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:18:31 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 03:18:31 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/login/authenticate, url => login
+[06-Jun-2022 03:18:31 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[06-Jun-2022 03:18:31 Europe/Berlin] SessionController::validateSession() redirect al login
+[06-Jun-2022 03:18:31 Europe/Berlin] ExistPOST: Existen parámetros
+[06-Jun-2022 03:18:31 Europe/Berlin] login: inicio
+[06-Jun-2022 03:18:31 Europe/Berlin] login: user id 14
+[06-Jun-2022 03:18:31 Europe/Berlin] Login::authenticate() username and/or password wrong
+[06-Jun-2022 03:18:31 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:18:31 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ProyectoLoginInicio\libs\app.php on line 9
+[06-Jun-2022 03:18:31 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 03:18:31 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/?error=bcbe63ed8464684af6945ad8a89f76f8, url => ?error=bcbe63ed8464684af6945ad8a89f76f8
+[06-Jun-2022 03:18:31 Europe/Berlin] sessionController::isPublic(): currentURL => ?error=bcbe63ed8464684af6945ad8a89f76f8
+[06-Jun-2022 03:18:31 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2022 03:18:31 Europe/Berlin] View::handleError() existsKey =>Nombre de usuario y/o password incorrectos
+[06-Jun-2022 03:18:38 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:18:38 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 03:18:38 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/login/authenticate, url => login
+[06-Jun-2022 03:18:38 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[06-Jun-2022 03:18:38 Europe/Berlin] SessionController::validateSession() redirect al login
+[06-Jun-2022 03:18:38 Europe/Berlin] ExistPOST: Existen parámetros
+[06-Jun-2022 03:18:38 Europe/Berlin] login: inicio
+[06-Jun-2022 03:18:38 Europe/Berlin] login: user id 14
+[06-Jun-2022 03:18:38 Europe/Berlin] login: success
+[06-Jun-2022 03:18:38 Europe/Berlin] Login::authenticate() passed
+[06-Jun-2022 03:18:38 Europe/Berlin] sessionController::initialize(): user: Emma
+[06-Jun-2022 03:18:38 Europe/Berlin] sessionController::authorizeAccess(): role: user
+[06-Jun-2022 03:18:38 Europe/Berlin] Errores posibles!
+[06-Jun-2022 03:18:38 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2022 03:18:38 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:18:38 Europe/Berlin] sessionController::validateSession(): username:Emma - role: user
+[06-Jun-2022 03:18:38 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 03:18:38 Europe/Berlin] sessionController::isPublic(): currentURL => dashboard
+[06-Jun-2022 03:18:38 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/ProyectoLoginInicio/dashboard, url => dashboard
+[06-Jun-2022 03:18:38 Europe/Berlin] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jun-2022 03:18:38 Europe/Berlin] sessionController::getUserSessionData(): Emma
+[06-Jun-2022 03:18:38 Europe/Berlin] Dashboard::constructor() 
+[06-Jun-2022 03:18:38 Europe/Berlin] Dashboard::RENDER() 
+[06-Jun-2022 03:18:38 Europe/Berlin] Dashboard::getExpenses() id = 14
+[06-Jun-2022 03:18:38 Europe/Berlin] ExpensesModel::getByUserIdAndLimit(): count: 0
+[06-Jun-2022 03:18:38 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:18:38 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:18:38 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:18:38 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:18:38 Europe/Berlin] ExpensesModel::getTotalByCategoryThisMonth
+[06-Jun-2022 03:18:38 Europe/Berlin] Errores posibles!
